@@ -1,5 +1,5 @@
 # Mood Backend API
-- Este projeto é um backend em Python (FastAPI) que reorganiza tarefas usando análise semântica e regras fixas, combinando lógica determinística com Inteligência Artificial (Groq).
+#### `Este projeto é um backend em Python (FastAPI) que reorganiza tarefas usando análise semântica e regras fixas, combinando lógica determinística com Inteligência Artificial (Groq).`
 --- 
 ## Funcionalidades
 
